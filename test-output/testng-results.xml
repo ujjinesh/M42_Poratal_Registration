@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T10:24:50 IST" name="Suite" finished-at="2024-03-19T10:25:54 IST" duration-ms="63729">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T10:24:50 IST" name="Test" finished-at="2024-03-19T10:25:54 IST" duration-ms="63729">
+      <class name="com.M42.execution.TestExecution">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.M42.execution.TestExecution@1976f537]" started-at="2024-03-19T10:24:50 IST" name="setUp" finished-at="2024-03-19T10:24:56 IST" duration-ms="6405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="PatientRegistration()[pri:0, instance:com.M42.execution.TestExecution@1976f537]" started-at="2024-03-19T10:24:56 IST" name="PatientRegistration" finished-at="2024-03-19T10:25:52 IST" duration-ms="55341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PatientRegistration -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.M42.execution.TestExecution@1976f537]" started-at="2024-03-19T10:25:52 IST" name="close" finished-at="2024-03-19T10:25:53 IST" duration-ms="1651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.M42.execution.TestExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
